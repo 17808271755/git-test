@@ -12,5 +12,6 @@ public class GitTest {
         System.out.println("hello,xcc的Git2");
         System.out.println("hello,xcc的Git3");
         System.out.println("hello,xcc的Git4");
+        System.out.println("hot-fix test");
     }
 }
