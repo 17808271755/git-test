@@ -9,5 +9,6 @@ package com.xcc.git;
 public class GitTest {
     public static void main(String[] args) {
         System.out.println("hello,xcc的Git");
+        System.out.println("hello,xcc的Git2");
     }
 }
